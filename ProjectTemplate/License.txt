@@ -1,0 +1,3 @@
+The project template is provided as is without any warranty. In other words if it hoses your Visual Studio please don't blame us.
+You are FREE to use it otherwise. 
+DO NOT SELL IT.
